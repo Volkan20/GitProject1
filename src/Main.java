@@ -6,7 +6,10 @@ public class Main {
         System.out.println("Volkan");
         System.out.println("Dereli");
         System.out.println("No middle Name");
-        String name = scan.nextLine();
-        System.out.println(name);
+
+        System.out.println("Age 28");
+
+        System.out.println("I'm correct code");
+        System.out.println("Correct");
     }
 }
