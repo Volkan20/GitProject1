@@ -12,6 +12,7 @@ public class Main {
         System.out.println("I'm correct code");
 
         System.out.println("practice for gitHub");
+        System.out.println("2nd practice GitHub");
 
     }
 }
