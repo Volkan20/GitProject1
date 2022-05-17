@@ -14,5 +14,10 @@ public class Main {
         System.out.println("practice for gitHub");
         System.out.println("2nd practice GitHub");
 
+
+        for(int x=1; x<101; x++){
+            System.out.println(x+" ");
+        }
+
     }
 }
